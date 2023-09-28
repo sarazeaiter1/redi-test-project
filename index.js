@@ -31,4 +31,4 @@ for (let i = 1; i <= 100; i++) {
     console.log("Buzz");
   }
 }
-console.log("Buzz:", buzzCount);
+console.log("Count:", count);
